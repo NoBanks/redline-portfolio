@@ -22,11 +22,11 @@ Three short deck videos with original NoBanks music.
 
 <!-- DROP-VIDEO-1 -->
 
-**What is REDLINE — sovereign AI for legal contract review:**
+**What is REDLINE, sovereign AI for legal contract review:**
 
 <!-- DROP-VIDEO-2 -->
 
-**The default state is exposure — why cloud AI is a non-starter for privileged work:**
+**The default state is exposure, why cloud AI is a non-starter for privileged work:**
 
 <!-- DROP-VIDEO-3 -->
 
