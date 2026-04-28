@@ -20,15 +20,15 @@ Three short deck videos with original NoBanks music.
 
 **The vault model:**
 
-<!-- DROP-VIDEO-1 -->
+https://github.com/user-attachments/assets/d37efa92-8928-4dfd-ae45-cb1c52462aad
 
 **What is REDLINE, sovereign AI for legal contract review:**
 
-<!-- DROP-VIDEO-2 -->
+https://github.com/user-attachments/assets/226c4e9e-d1c2-42ad-b0f6-70da9f778710
 
 **The default state is exposure, why cloud AI is a non-starter for privileged work:**
 
-<!-- DROP-VIDEO-3 -->
+https://github.com/user-attachments/assets/95d39324-2b02-43c2-9254-e2749a712182
 
 ---
 
